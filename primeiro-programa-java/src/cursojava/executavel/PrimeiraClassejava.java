@@ -2,7 +2,7 @@ package cursojava.executavel;
 
 public class PrimeiraClassejava {
 	
-	/*Main é um metado auto executavel em java*/
+	/*Main ddddddddd é um metado auto executavel em java*/
 	public static void main(String[] args) {
 		
 		/*Escreve texto no console*/
