@@ -2,9 +2,9 @@ package curso.java.jaelson;
 
 public class pessoa {
 	
-	private string nome;
+	private String nome;
 	
-	private string sobrenome;
+	private String sobrenome;
 	
 	private int idade;
 	
@@ -18,19 +18,19 @@ public class pessoa {
 		this.idade = idade;
 	}
 
-	public string getNome() {
+	public String getNome() {
 		return nome;
 	}
 
-	public void setNome(string nome) {
+	public void setNome(String nome) {
 		this.nome = nome;
 	}
 
-	public string getSobrenome() {
+	public String getSobrenome() {
 		return sobrenome;
 	}
 
-	public void setSobrenome(string sobrenome) {
+	public void setSobrenome(String sobrenome) {
 		this.sobrenome = sobrenome;
 	}
 	
